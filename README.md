@@ -23,9 +23,11 @@ I have a deep interest in **networks** and am studying with the goal of pursuing
 ️
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CHISANW&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width: 100%" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHISANW&layout=compact&theme=highcontrast&langs_count=8&card_width=320" />
-</a>
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=CHISANW&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=9f9f9f&amp;bg_color=151515" style="max-width: 100%" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height="170" width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CHISANW&layout=compact&theme=highcontrast&langs_count=8&card_width=320" />
+  </a>
+</div>
