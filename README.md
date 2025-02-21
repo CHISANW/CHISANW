@@ -3,7 +3,7 @@
   
 # Hi... I'm MinWoo  <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" />
 
-I have a deep interest in **networks** and am studying with the goal of pursuing a career as a **Backend&DevOps Developer**. I place a **high importance on security** in my development work to ensure that users can safely interact with the sites I create.
+I have a deep interest in **networks** and am studying with the goal of pursuing a career as a **Backend & DevOps Developer**. I place a high importance on **security** in my development work to ensure that users can safely interact with the sites I create. Additionally, I am currently working as a **blockchain server developer**.
 - Any feedback or inquiries regarding the project are always welcome
 - You can reach me through: <a href="mailto:keuye06380618@gmail.com" title="Email"><img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" align="center"/> <a href="mailto:rlatngus1691@naver.com" title="Email">
     <img alt="Naver" src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white" height="30" align="center"/></a>
