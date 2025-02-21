@@ -16,7 +16,33 @@ I have a deep interest in **networks** and am studying with the goal of pursuing
 [- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>]::
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,mysql,redis,nginx,docker,jenkins,aws,linux,idea,git,github,postman,notion,stackoverflow&perline=13)](#)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,solidity,ts,java,jest,nodejs,npm,nestjs,spring,gradle,hibernate&perline=13" />
+    
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=mysql,redis,firebase,elasticsearch&perline=13" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=nginx,docker,jenkins,rabbitmq,aws,linux,git,github&perline=13" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=postman,notion,stackoverflow,windows,idea&perline=13" />
+  </a>
+</p>
+
+
+ 
+   
+     
+
 
 ## &#9881;️ Algorithm
 [![Solved.ac keuye0638](http://mazassumnida.wtf/api/v2/generate_badge?boj=keuye0638)](https://solved.ac/keuye0638)
